@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633136907838",
+    "project_id": "mock-project-f8550",
+    "storage_bucket": "mock-project-f8550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633136907838:android:ee15ac236de0de6c4df36f",
+        "android_client_info": {
+          "package_name": "com.example.blocpersondetails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0A8M0JXh1HUSjBP9N_E-ZRoYwpMFrcYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
